@@ -79,3 +79,53 @@ body {
 .contact-info a:hover {
   color: #404bbf;
 }
+
+/* Hero Section */
+.hero {
+  height: 600px;
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  position: absolute;
+  width: 496px;
+  height: 120px;
+  left: 472px;
+  top: 188px;
+  color: #ffffff;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+/* Hero Section */
+.btn {
+  padding: 16px 32px;
+  gap: 10px;
+  margin-top: 64px;
+  margin-bottom: 292px;
+  position: absolute;
+  width: 169px;
+  height: 56px;
+  left: 636px;
+  top: 356px;
+  border-radius: 4px;
+  background: #4d5ae5;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: #404bbf;
+}
+
