@@ -57,3 +57,25 @@ body {
 .nav-item a:hover {
   color: #404bbf;
 }
+
+/* Contact Info */
+.contact-info {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 40px;
+}
+
+.contact-item .contact-label {
+  font-weight: bold;
+}
+
+.contact-info a {
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
+}
+
+.contact-info a:hover {
+  color: #404bbf;
+}
