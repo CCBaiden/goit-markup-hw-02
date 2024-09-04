@@ -213,3 +213,40 @@ body {
   font-size: 18px;
   margin-top: 15px;
 }
+
+/* Footer */
+.footer {
+  padding: 20px 40px;
+  background-color: #2d2f36;
+  color: #ffffff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.footer-content {
+  text-align: left;
+  max-width: 300px;
+}
+
+.footer-content a {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* "WEB"*/
+.footer-content a span:first-child {
+  color: #4d5ae5; 
+}
+
+/* "STUDIO"*/
+.footer-content a span:last-child {
+  color: #ffffff; 
+}
+
+.footer-content p {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #ffffff;
+}
