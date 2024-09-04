@@ -39,3 +39,21 @@ body {
   color: #2e2f42; 
   width: 71px;
 }
+
+/* Navigation */
+.nav-list {
+  display: flex;
+  list-style: none;
+  justify-content: flex-start;
+}
+
+.nav-item a {
+  margin-left: 76px;
+  text-decoration: none;
+  color: #2e2f42;
+  font-weight: 400;
+}
+
+.nav-item a:hover {
+  color: #404bbf;
+}
