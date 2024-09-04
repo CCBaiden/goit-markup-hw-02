@@ -30,13 +30,13 @@ body {
 
 /* "WEB" */
 .logo a span:first-child {
-  color: #4d5ae5; 
+  color: #4d5ae5;
   width: 44px;
 }
 
 /* "STUDIO"  */
 .logo a span:last-child {
-  color: #2e2f42; 
+  color: #2e2f42;
   width: 71px;
 }
 
@@ -168,7 +168,7 @@ body {
   text-align: center;
   font-size: 28px;
   margin-bottom: 72px;
-  padding: 120px 639px; 
+  padding: 120px 639px;
 }
 
 .team-list {
@@ -237,12 +237,12 @@ body {
 
 /* "WEB"*/
 .footer-content a span:first-child {
-  color: #4d5ae5; 
+  color: #4d5ae5;
 }
 
 /* "STUDIO"*/
 .footer-content a span:last-child {
-  color: #ffffff; 
+  color: #ffffff;
 }
 
 .footer-content p {
