@@ -17,3 +17,25 @@ body {
   background-color: #ffffff;
   margin-bottom: 96px;
 }
+/* Logo */
+.logo a {
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  padding: 156px;
+}
+
+/* "WEB" */
+.logo a span:first-child {
+  color: #4d5ae5; 
+  width: 44px;
+}
+
+/* "STUDIO"  */
+.logo a span:last-child {
+  color: #2e2f42; 
+  width: 71px;
+}
