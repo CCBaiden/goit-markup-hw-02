@@ -129,3 +129,33 @@ body {
   background-color: #404bbf;
 }
 
+/* Features Section */
+.features {
+  padding: 156px 96px;
+  background-color: #ffffff;
+  margin-bottom: 96px;
+}
+
+.features-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.feature-item {
+  width: 264px;
+  height: 104px;
+  padding: 24px;
+}
+
+.feature-title {
+  font-size: 36px;
+  margin-bottom: 8px;
+  color: #2e2f42;
+}
+
+.feature-description {
+  font-size: 16px;
+  color: #434455;
+}
+
