@@ -192,3 +192,24 @@ body {
   color: #434455;
 }
 
+/* Portfolio Section */
+.portfolio {
+  background-color: #ffffff;
+}
+
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.portfolio-item {
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.portfolio-title {
+  font-size: 18px;
+  margin-top: 15px;
+}
