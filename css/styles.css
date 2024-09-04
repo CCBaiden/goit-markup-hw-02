@@ -159,3 +159,36 @@ body {
   color: #434455;
 }
 
+/* Team Section */
+.team {
+  background-color: #f4f4fd;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 72px;
+  padding: 120px 639px; 
+}
+
+.team-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.team-member {
+  text-align: center;
+}
+
+.team-member-name {
+  font-size: 20px;
+  margin-top: 15px;
+  color: #2e2f42;
+}
+
+.team-member-role {
+  font-size: 16px;
+  color: #434455;
+}
+
