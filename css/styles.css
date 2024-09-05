@@ -9,14 +9,13 @@ body {
   background-color: #ffffff;
   font-style: normal;
 }
+
 /* Header */
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   background-color: #ffffff;
   margin-bottom: 96px;
 }
+
 /* Logo */
 .logo a {
   font-family: "Raleway";
@@ -42,9 +41,7 @@ body {
 
 /* Navigation */
 .nav-list {
-  display: flex;
   list-style: none;
-  justify-content: flex-start;
 }
 
 .nav-item a {
@@ -56,14 +53,6 @@ body {
 
 .nav-item a:hover {
   color: #404bbf;
-}
-
-/* Contact Info */
-.contact-info {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  gap: 40px;
 }
 
 .contact-item .contact-label {
@@ -102,11 +91,6 @@ body {
   color: #ffffff;
 }
 
-.btn {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-}
 
 /* Hero Section */
 .btn {
@@ -137,8 +121,6 @@ body {
 }
 
 .features-list {
-  display: flex;
-  justify-content: space-between;
   list-style: none;
 }
 
@@ -172,8 +154,6 @@ body {
 }
 
 .team-list {
-  display: flex;
-  justify-content: space-between;
   list-style: none;
 }
 
@@ -198,9 +178,6 @@ body {
 }
 
 .portfolio-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   list-style: none;
 }
 
@@ -219,9 +196,6 @@ body {
   padding: 20px 40px;
   background-color: #2d2f36;
   color: #ffffff;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
 }
 
 .footer-content {
